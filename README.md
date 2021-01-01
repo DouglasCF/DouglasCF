@@ -28,6 +28,8 @@ Android developer from Brazil. I love building applications & discussing new pro
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing DataStore](https://dev.to/douglascf/introducing-datastore-476b)
+- [Understanding about Navigation Architecture Component](https://dev.to/douglascf/understanding-about-navigation-architecture-component-3j1m)
 <!-- BLOG-POST-LIST:END -->
 
 
