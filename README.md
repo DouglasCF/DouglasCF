@@ -15,6 +15,7 @@ Android developer from Brazil. I love building applications & discussing new pro
 <a href="https://instagram.com/go.droid/">
   <img align="left" alt="Douglas Fornaro's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
 
 #### Languages and Tools
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
@@ -31,21 +32,7 @@ Android developer from Brazil. I love building applications & discussing new pro
 - [Introducing DataStore](https://dev.to/douglascf/introducing-datastore-476b)
 - [Understanding about Navigation Architecture Component](https://dev.to/douglascf/understanding-about-navigation-architecture-component-3j1m)
 <!-- BLOG-POST-LIST:END -->
-
-
-
-<img align="right" alt="DouglasCF's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=douglascf&show_icons=true&hide_border=true" />
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascf&theme=light&hide_langs_below=3" />
-
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning a lot of things
@@ -54,3 +41,8 @@ Android developer from Brazil. I love building applications & discussing new pro
 - 💬 Ask me about ...
 - 📫 How to reach me: DM @go.droid
 - ⚡ Fun fact: I love riding by bike and my dogs too!
+<br/>
+
+
+<img align="left" alt="DouglasCF's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=douglascf&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascf&theme=light&hide_langs_below=3" />
