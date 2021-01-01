@@ -32,13 +32,13 @@ Android developer from Brazil. I love building applications & discussing new pro
 - [Introducing DataStore](https://dev.to/douglascf/introducing-datastore-476b)
 - [Understanding about Navigation Architecture Component](https://dev.to/douglascf/understanding-about-navigation-architecture-component-3j1m)
 <!-- BLOG-POST-LIST:END -->
-<br/>
+
+---
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning a lot of things
 - 👯 I’m looking to collaborate on Instagram with Android contents
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about things related to Android
 - 📫 How to reach me: DM @go.droid
 - ⚡ Fun fact: I love riding by bike and my dogs too!
 <br/>
