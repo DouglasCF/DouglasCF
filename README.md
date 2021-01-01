@@ -36,10 +36,11 @@ Android developer from Brazil. I love building applications & discussing new pro
 ---
 
 - 🔭 I’m currently working on Android
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m currently learning a lot of new things
 - 👯 I’m looking to collaborate on Instagram with Android contents
 - 💬 Ask me about things related to Android
 - 📫 How to reach me: DM @go.droid
+- :dart: 2021 goal: Contribute more with open source projects
 - ⚡ Fun fact: I love riding by bike and my dogs too!
 <br/>
 
