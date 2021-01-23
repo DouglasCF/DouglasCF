@@ -29,6 +29,7 @@ Android developer from Brazil. I love building applications & discussing new pro
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to proper pop the Login flow from the back stack using Navigation Component](https://dev.to/douglascf/how-to-proper-pop-the-login-flow-from-the-back-stack-using-navigation-component-29lm)
 - [Easy way to Parcelize on Kotlin](https://dev.to/douglascf/easy-way-to-parcelize-on-kotlin-2d5i)
 - [Introducing DataStore](https://dev.to/douglascf/introducing-datastore-476b)
 - [Understanding about Navigation Architecture Component](https://dev.to/douglascf/understanding-about-navigation-architecture-component-3j1m)
